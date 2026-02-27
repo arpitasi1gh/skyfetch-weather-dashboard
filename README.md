@@ -36,6 +36,12 @@ A beautiful, interactive weather dashboard that provides real-time weather data 
 
 https://skyfetch-weather-dashboard.netlify.app/
 
+## 📸 Screenshots
+
+<img width="1469" height="835" alt="Screenshot 2026-02-27 at 3 50 04 PM" src="https://github.com/user-attachments/assets/0d2408f1-59c3-4856-bffc-e33ecb96d3e6" />
+<img width="1467" height="832" alt="Screenshot 2026-02-27 at 3 50 26 PM" src="https://github.com/user-attachments/assets/9181d74b-3ba7-4b71-9e13-2291486484a8" />
+<img width="1470" height="834" alt="Screenshot 2026-02-27 at 3 52 44 PM" src="https://github.com/user-attachments/assets/b83a90f7-9975-47ec-8b54-89feab151829" />
+
 ## 📝 License
 This project is open source and available under the MIT License.
 
