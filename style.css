@@ -20,8 +20,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
     text-align: center;
-    width: 100%;            /* full width up to max */
-    max-width: 500px;       /* constrain overall layout */
+    width: auto;
 }
 
 h1 {
