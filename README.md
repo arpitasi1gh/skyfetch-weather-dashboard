@@ -43,6 +43,7 @@ This project is open source and available under the MIT License.
 Arpita Singh
 
 GitHub: @arpitasi1gh
+
 LinkedIn: https://www.linkedin.com/in/arpitasi1gh/
 
 ## 🙏 Acknowledgments
