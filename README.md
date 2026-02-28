@@ -34,7 +34,7 @@ A beautiful, interactive weather dashboard that provides real-time weather data 
 
 ## 🚀 Live Demo
 
-https://skyfetch-weather-dashboard.vercel.app
+https://skyfetch-weather-dashboard-iota.vercel.app
 
 ## 📸 Screenshots
 
